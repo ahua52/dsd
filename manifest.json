@@ -1,6 +1,6 @@
 {
     "name": "DSD Dashboard",
-    "short_name": "DSD",
+    "short_name": "dsd",
     "description": "DSD Dashboard",
     "icons": [{
       "src": "assets/image/logo.png",
